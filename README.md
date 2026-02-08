@@ -20,6 +20,9 @@ How to Run:
 2. Open proj1.html in any browser
 3. Enter a city name and click Search
 
+LIVE DEMO: 
+ https://ritika1210.github.io/Weather-Detection/
+
 Note:
 This app performs a global city search. If multiple cities have the same name,
 the API may return a result from a different country.
@@ -28,3 +31,4 @@ The API key used is for learning and demo purposes only.
 Author:
 Ritika Kumari
 Frontend Developer | B.Tech IT Student
+
